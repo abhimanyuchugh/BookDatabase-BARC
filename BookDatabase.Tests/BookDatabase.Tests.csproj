@@ -55,6 +55,7 @@
     <Compile Include="BookDatabaseTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BookDatabaseFactoryTest.cs" />
+    <Compile Include="BookTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BookDatabase\BookDatabase.csproj">
